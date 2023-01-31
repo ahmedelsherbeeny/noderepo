@@ -1,0 +1,3 @@
+
+                here is the result as async type of first as 
+                : hello from first txt file and of second as: hello from second txt file

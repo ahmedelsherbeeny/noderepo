@@ -1,0 +1,2 @@
+hihere is the result of first:
+ hello from first txt file, and the result to second:hello from second txt file
